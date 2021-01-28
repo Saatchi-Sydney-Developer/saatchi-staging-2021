@@ -1,7 +1,7 @@
 {
   "name": "saatchi-site-main",
   "version": "0.1.0",
-  "homepage": "http://Saatchi-Sydney-Developer.github.io/saatchi-staging-2021",
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
